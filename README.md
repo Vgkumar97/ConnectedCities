@@ -19,7 +19,7 @@ Following are the brief description of source code and resources used in this ma
 1. [Cities.txt](https://github.com/Vgkumar97/ConnectedCities/blob/master/src/main/resources/cities.txt) -
     Text file consists of pair of cities in each line with comma(,) separated.
 2. [BuildConnectedCitiesGraphFromFile.java](https://github.com/Vgkumar97/ConnectedCities/blob/master/src/main/java/com/masterCard/connectedCities/config/BuildConnectedCitiesGraphFromFile.java) - 
-    This Config file reads the textfile and places all the cities in Graph data structure.
+    This class reads the textfile and places all the cities in Graph data structure.
 3. [ConnectedCitiesGraph.java](https://github.com/Vgkumar97/ConnectedCities/blob/master/src/main/java/com/masterCard/connectedCities/service/ConnectedCitiesGraph.java) -
     This class is used to construct a graph for the given cities. 
 4. [ConnectedCitiesController.java](https://github.com/Vgkumar97/ConnectedCities/blob/master/src/main/java/com/masterCard/connectedCities/controller/ConnectedCitiesController.java) -
